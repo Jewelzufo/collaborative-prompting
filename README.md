@@ -2,6 +2,7 @@
 J.A.G., 2025
 
 # The Synergy of AI Collaboration vs. Search Engine Mentality
+![Human-AI Collaboration](https://raw.githubusercontent.com/Jewelzufo/collaborative-prompting/refs/heads/main/DALL%C2%B7E%202025-02-28%2023.06.35%20-%20A%20visually%20striking%20image%20representing%20human-AI%20collaboration.%20The%20scene%20features%20a%20human%20hand%20shaking%20or%20interacting%20with%20a%20robotic%20hand%2C%20symbolizing.webp)
 
 ## Introduction
 
